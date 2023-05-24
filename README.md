@@ -14,3 +14,5 @@ Features
 - Certificate info
 - Proxy support
 - 2FA support
+
+You can use my docker compose file or check at https://hub.docker.com/r/louislam/uptime-kuma.
